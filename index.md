@@ -3,5 +3,5 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [buku all tomorrows](ebook/buku all tomorrows.pdf) – C. M. Kosemen (2006)
-2. 
+2. [THE BOOK OF IKIGAI Make Life Worth Living](ebook/THE BOOK OF IKIGAI Make Life Worth Living.pdf) – C. M. Kosemen (1962)
 *Powered by GitHub Pages*
